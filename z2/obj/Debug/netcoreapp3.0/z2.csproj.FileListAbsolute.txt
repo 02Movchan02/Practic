@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.exe
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.deps.json
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.runtimeconfig.json
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.runtimeconfig.dev.json
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.dll
+C:\Users\student\Desktop\z2\z2\bin\Debug\netcoreapp3.0\z2.pdb
+C:\Users\student\Desktop\z2\z2\obj\Debug\netcoreapp3.0\z2.csprojAssemblyReference.cache
+C:\Users\student\Desktop\z2\z2\obj\Debug\netcoreapp3.0\z2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\z2\z2\obj\Debug\netcoreapp3.0\z2.AssemblyInfo.cs
+C:\Users\student\Desktop\z2\z2\obj\Debug\netcoreapp3.0\z2.dll
+C:\Users\student\Desktop\z2\z2\obj\Debug\netcoreapp3.0\z2.pdb
